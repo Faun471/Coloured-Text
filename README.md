@@ -9,5 +9,7 @@ Colours text in the terminal using color tags. Uses ANSI colour codes.
 ## Intended Usage
 
 ```py
-    # Insert code here.
+import coloured_text as ct
+
+print(ct.parse_from_string('Hello, <red>World!</red>'))
 ```
