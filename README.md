@@ -4,9 +4,7 @@ Colours text in the terminal using color tags. Uses ANSI colour codes.
 
 ## Installation
 
-`git clone https://github.com/Faun471/Coloured-Text.git`
-
-`sudo python setup.py install`
+`pip install git+https://github.com/Faun471/Coloured-Text.git`
 
 ## Intended Usage
 
